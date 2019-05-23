@@ -1,8 +1,8 @@
 #write your code here
 
-def countdown(num)
-  counter = 12
-   while counter < num
+def countdown(10)
+  counter = 10
+   while counter < 10
     puts "#{num} SECOND(S)!"
     counter -= 1
     break
